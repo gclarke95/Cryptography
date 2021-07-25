@@ -1,1 +1,4 @@
+I have created two python files for this Cryptography unit. 
+The first is a python program which encrytps a simple string the second
+can take a text file and output an encrypted version as a file (the class csv).
 
